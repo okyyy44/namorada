@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f6c7e8;
+    color: black;
+}
+
+
+
+header{
+
+}
+
+h2{
+    font-size: 75px;
+}
+
+section{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+section p{
+    
+    font-size: 20px;
+    width: 500px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
